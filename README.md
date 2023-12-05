@@ -1,1 +1,8 @@
-# ahmadfarrelllaly-UAS-Pemrograman-Komputer-Ahmad-Farrel-Aly-09011282328045
+# Nama : Ahmad Farrel Aly
+# NIM : 09011282328045
+# Kelas : SK1C
+# Tempat, Tanggal Lahir : Palembang, 18 Februari 2005
+# Kampus: Universias Sriwijaya
+# Fakultas : Ilmu Komputer
+# Jurusan : Sistem Komputer
+# Ujian : Ujian Akhir Semester Pemrograman Komputer
